@@ -40,7 +40,7 @@ Bash
 cp .env.example .env
 
 # On Windows (cmd):
-copy .env.example .env
+ .env.example .env
 Open .env and provide your API keys:
 
 Ini, TOML
