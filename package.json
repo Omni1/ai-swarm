@@ -1,0 +1,13 @@
+{
+  "name": "ai-swarm",
+  "version": "1.0.0",
+  "description": "Resilient OpenAI-compatible multi-provider swarm gateway",
+  "main": "swarm.js",
+  "type": "module",
+  "scripts": {
+    "start": "node swarm.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
